@@ -1,9 +1,14 @@
-#Latex
+###########
+## Latex ##
+###########
 
 *.log
 *.aux
 *.synctex.gz
 
-#Temporales
+################
+## Temporales ##
+################
+
 *~
 *.swp
