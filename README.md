@@ -3,4 +3,11 @@ PDG
 
 Grupo de desarrollo de protesis, DIMEC
 
-Falta que se agregue el equipo de trabajo
+## Equipo de trabajo
+
+Fernando Torres
+Mónica Zamora
+Luis Rodríguez
+Israfel Salazar
+Óliver Rodríguez 
+Rafael Espinoza
