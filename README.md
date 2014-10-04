@@ -9,10 +9,16 @@ Fernando Torres
 
 Mónica Zamora
 
-Luis Rodríguez
+Luis Rodríguez - Socket
 
-Israfel Salazar
+Israfel Salazar - Socket
 
-Óliver Rodríguez 
+Óliver Rodríguez - Cinemática
 
-Rafael Espinoza
+Rafael Espinoza - Cinemática
+
+Orlando Campos - MOCAP
+
+David Armijo - Prótesis de bajo costo
+
+Joaquín Carrasco - Prótesis de tobillo actuado
